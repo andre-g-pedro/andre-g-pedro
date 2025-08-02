@@ -9,7 +9,7 @@ Welcome to my data portfolio! Here, I showcase highlights from my data projects.
 ---
 
 # Power BI
-| Skill       | Level     |
+|Project Link|Project Description|
 |-------------|----------|
 | Excel       | Advanced |
 | SQL         | Intermediate |
