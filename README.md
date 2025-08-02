@@ -1,28 +1,22 @@
 # Portfolio Projects
 Welcome to my data portfolio! Here, I showcase highlights from my data projects.
-# Portfolio Projects
-Welcome to my data portfolio! Here, I showcase highlights from my data projects.
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Projects](#projects)
-- [Skills](#skills)
-- [Contact](#contact)
+- [Power BI](#introduction)
+- [SQL](#projects)
+- [Microsoft Excel](#skills)
 
 ---
 
-## Introduction
+## Power BI
 
 Aqui vai o texto da introdução.
 
-## Projects
+## SQL
 
 Aqui vai a seção de projetos.
 
-## Skills
+## Microsoft Excel
 
 Aqui vai a seção de habilidades.
 
-## Contact
-
-Aqui vai a seção de contato.
