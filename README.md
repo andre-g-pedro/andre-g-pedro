@@ -1,6 +1,6 @@
 # 📊 Portfolio Projects
 Welcome to my data portfolio! Here, I showcase highlights from my data projects.
-## Table of Contents
+## :file_folder: Table of Contents
 
 - [Power BI](#power-bi)
 - [SQL](#sql)
