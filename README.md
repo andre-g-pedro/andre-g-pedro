@@ -2,9 +2,9 @@
 Welcome to my data portfolio! Here, I showcase highlights from my data projects.
 ## Table of Contents
 
-- [Power BI](#introduction)
-- [SQL](#projects)
-- [Microsoft Excel](#skills)
+- [Power BI](#power bi)
+- [SQL](#sql)
+- [Microsoft Excel](#microsoft excel)
 
 ---
 
