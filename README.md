@@ -8,15 +8,15 @@ Welcome to my data portfolio! Here, I showcase highlights from my data projects.
 
 ---
 
-## Power BI
+# Power BI
 
 Aqui vai o texto da introdução.
 
-## SQL
+# SQL
 
 Aqui vai a seção de projetos.
 
-## Microsoft Excel
+# Microsoft Excel
 
 Aqui vai a seção de habilidades.
 
