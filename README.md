@@ -5,7 +5,6 @@ Welcome to my data portfolio! Here, I showcase highlights from my data projects.
 - [Power BI](#power-bi)
 - [SQL](#sql)
 - [Microsoft Excel](#microsoft-excel)
-- [Python](#python)
 
 ---
 
@@ -32,9 +31,4 @@ Welcome to my data portfolio! Here, I showcase highlights from my data projects.
 
 ---
 
-# Python
-| Project Link | Project Description |
-|-------------|----------|
-|🐍||
-|🐍||
 
