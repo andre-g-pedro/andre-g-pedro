@@ -28,7 +28,7 @@ Welcome to my data portfolio! Here, I showcase highlights from my data projects.
 # Microsoft Excel
 | Project Link | Project Description |
 |-------------|----------|
-|📊||
+|📊HR dashboard|This HR dashboard was designed to provide a clear and interactive overview of key workforce metrics. Built entirely in Excel, it leverages pivot tables, charts, and conditional formatting to transform raw data into actionable insights. The dashboard includes multiple columns that compare employee data across different dimensions, such as department, gender, salary, and performance rating. Users can easily analyze workforce distribution, monitor trends, and identify areas for improvement through visual summaries and dynamic filtering options.|
 |📊||
 
 ---
