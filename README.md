@@ -20,8 +20,8 @@ Welcome to my data portfolio! Here, I showcase highlights from my data projects.
 # SQL
 | Project Link | Project Description |
 |-------------|----------|
-| 🗄️ Game Store || 
-| 🗄️ Library ||
+| 🗄️ Game Store |Database project for a second-hand game store, involving creation and relationships between tables for customers, employees, games, purchases, and sales. Includes queries using joins, analytic functions, aggregations, views, and data formatting, demonstrating practical knowledge of SQL and relational modeling.| 
+| 🗄️ Library |Database project for a library system, featuring tables for users, authors, books, rentals, and fines. Includes queries to manage loans, generate reports on most rented books, and track outstanding fines. Implements views, triggers to automatically update book availability, and stored procedures to handle returns and apply fines. Demonstrates practical skills in relational modeling and SQL programming.|
 
 ---
 
@@ -29,7 +29,6 @@ Welcome to my data portfolio! Here, I showcase highlights from my data projects.
 | Project Link | Project Description |
 |-------------|----------|
 |📊HR Dashboard|Focused on workforce management and strategic planning, the panel transforms HR data into actionable insights through interactive tables and visuals. Its design encourages easy exploration and supports decision-making with reliable, structured information.|
-|📊||
 
 ---
 
