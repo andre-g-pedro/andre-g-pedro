@@ -12,8 +12,8 @@ Welcome to my data portfolio! Here, I showcase highlights from my data projects.
 # Power BI
 | Project Link | Project Description |
 |-------------|----------|
-|📈Banking Dashboard|This dashboard provides a consolidated and interactive view of fictitious banking data, designed to support both strategic and operational analysis. Through a variety of visualizations, it allows for a better understanding of the institution’s performance, the identification of trends, and more informed decision-making.|
-|📈Covid Dashboard2|This dashboard presents a comprehensive and dynamic view of fictitious COVID-19 data. Its purpose is to make it easier to analyze and interpret information through interactive charts and indicators, helping track trends, identify patterns, and compare different scenarios.|
+|📈Banking Dashboard|Designed to provide a clear and interactive view of banking information, the panel consolidates fictitious data to support both strategic and operational decision-making. With a variety of dynamic visualizations, it helps uncover performance trends, monitor key metrics, and identify opportunities for improvement.|
+|📈Covid Dashboard|Bringing together key indicators in an intuitive format, the panel offers a comprehensive perspective on fictitious COVID-19 data. Its interactive structure allows users to analyze trends, compare scenarios, and better understand the evolution of cases over time.|
 
 ---
 
@@ -28,7 +28,7 @@ Welcome to my data portfolio! Here, I showcase highlights from my data projects.
 # Microsoft Excel
 | Project Link | Project Description |
 |-------------|----------|
-|📊HR Dashboard|This dashboard provides a comprehensive and interactive overview of human resources data, designed to support strategic decision-making and workforce management. Through dynamic tables and visual elements, it enables an intuitive exploration of information and easy identification of patterns and trends.|
+|📊HR Dashboard|Focused on workforce management and strategic planning, the panel transforms HR data into actionable insights through interactive tables and visuals. Its design encourages easy exploration and supports decision-making with reliable, structured information.|
 |📊||
 
 ---
