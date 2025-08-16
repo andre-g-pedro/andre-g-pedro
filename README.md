@@ -11,7 +11,7 @@ Welcome to my data portfolio! Here, I showcase highlights from my data projects.
 # Power BI
 | Project Link | Project Description |
 |-------------|----------|
-|📈Banking Dashboard|Designed to provide a clear and interactive view of banking information, the panel consolidates fictitious data to support both strategic and operational decision-making. With a variety of dynamic visualizations, it helps uncover performance trends, monitor key metrics, and identify opportunities for improvement.|
+|📈[Sales Dashboard](https://github.com/andre-pedro/Test)|Designed to provide a clear and interactive view of banking information, the panel consolidates fictitious data to support both strategic and operational decision-making. With a variety of dynamic visualizations, it helps uncover performance trends, monitor key metrics, and identify opportunities for improvement.|
 |📈Covid Dashboard|Bringing together key indicators in an intuitive format, the panel offers a comprehensive perspective on fictitious COVID-19 data. Its interactive structure allows users to analyze trends, compare scenarios, and better understand the evolution of cases over time.|
 
 ---
