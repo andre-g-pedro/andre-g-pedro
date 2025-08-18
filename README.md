@@ -27,7 +27,7 @@ Welcome to my data portfolio! Here, I showcase highlights from my data projects.
 # Microsoft Excel
 | Project Link | Project Description |
 |-------------|----------|
-|📊HR Dashboard|Focused on workforce management and strategic planning, the panel transforms HR data into actionable insights through interactive tables and visuals. Its design encourages easy exploration and supports decision-making with reliable, structured information.|
+|📊[HR Dashboard](https://github.com/andre-pedro/human-resources-dashboard)|Focused on workforce management and strategic planning, the panel transforms HR data into actionable insights through interactive tables and visuals. Its design encourages easy exploration and supports decision-making with reliable, structured information.|
 
 ---
 
