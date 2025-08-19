@@ -7,8 +7,7 @@
 
 ## 🌟 About Me  
 
-I’m a young professional who decided to change careers and pursue what truly inspires me: **analyzing data and turning it into actionable insights**.  
-Curiosity, dedication, and attention to detail have always guided me, and I’ve found in the world of data a place where these qualities can shine.  
+I’m a young professional who decided to change careers and pursue what truly inspires me: analyzing data and turning it into actionable insights. During my bachelor’s degree I had already developed a strong interest in this field, and although I briefly explored a different path, I ultimately chose to return to it. Curiosity, dedication, and attention to detail have always guided me, and I’ve found in the world of data a place where these qualities can shine.
 
 I believe data tells stories, and my goal is to keep learning how to **listen, interpret, and communicate those stories through dashboards, reports, and predictive models**.  
 
