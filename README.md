@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Your Name]  
+# 👋 Hi, I’m André
 
 📊 **Aspiring Data Analyst** | 💡 Passionate about data | 🚀 Lifelong learner  
 📍 Based in Portugal 🇵🇹  
@@ -16,55 +16,12 @@ I believe data tells stories, and my goal is to keep learning how to **listen, i
 - 🔥 Highly motivated and eager to grow  
 - 🎯 Committed to quality, accuracy, and consistency  
 - 🤝 Strong team player with clear communication skills  
-- 📈 Passionate about continuous personal and professional development  
+- 📈 Passionate about continuous personal and professional development
 
 ---
 
-## 🚀 Featured Projects  
 
-✨ [📊 Sales Analysis - Power BI](https://github.com/youruser/sales-analysis)  
-Interactive dashboard with sales, profit, and customer metrics.  
 
-✨ [🐍 Data Exploration - Python (Pandas/Matplotlib)](https://github.com/youruser/data-exploration)  
-Data cleaning, transformation, and exploratory analysis with visual insights.  
-
-✨ [⏳ Time Series Forecasting](https://github.com/youruser/time-series-forecast)  
-Demand forecasting using ARIMA and Prophet models.  
-
-✨ [📂 SQL for Business Insights](https://github.com/youruser/sql-project)  
-SQL queries designed to answer key business questions.  
-
----
-
-## 🛠️ Tools & Technologies  
-
-- 🐍 **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
-- 📊 **Power BI & Advanced Excel**  
-- 🗄️ **SQL** (PostgreSQL, MySQL)  
-- ☁️ **Cloud**: Google BigQuery, Azure (beginner)  
-- 🤖 **Machine Learning** (Scikit-learn, Prophet)  
-- 🔧 Git | GitHub | Jupyter Notebook  
-
----
-
-## 🎯 My Goal  
-
-I’m at the beginning of my journey in **Data Analytics**, aiming to strengthen my skills and apply them to real-world projects.  
-My focus is to grow as a professional, contribute to dynamic teams, and **turn raw data into meaningful strategies and decisions**.  
-
-I know this path requires constant learning, and that challenge is exactly what drives me.  
-
----
-
-## 📫 Let’s Connect  
-
-- 💼 [LinkedIn](https://linkedin.com/in/youruser)  
-- 📧 Email: youremail@email.com  
-- 🌐 [Portfolio](https://yourwebsite.com)  
-
----
-
-⭐️ Thanks for stopping by my profile! If you find any of my projects useful or interesting, feel free to leave a *star* ⭐ or get in touch!  
 
 # 🗃️ Portfolio Projects
 Welcome to my data portfolio! Here, I showcase highlights from my data projects.
@@ -98,5 +55,18 @@ Welcome to my data portfolio! Here, I showcase highlights from my data projects.
 |📊[HR Dashboard](https://github.com/andre-pedro/human-resources-dashboard)|Focused on workforce management and strategic planning, the panel transforms HR data into actionable insights through interactive tables and visuals. Its design encourages easy exploration and supports decision-making with reliable, structured information.|
 
 ---
+## 🎯 My Goal  
 
+I’m at the beginning of my journey in **Data Analytics**, aiming to strengthen my skills and apply them to real-world projects.  
+My focus is to grow as a professional, contribute to dynamic teams, and **turn raw data into meaningful strategies and decisions**.  
+
+I know this path requires constant learning, and that challenge is exactly what drives me.  
+
+---
+
+## 📫 Let’s Connect  
+
+- 💼 [LinkedIn](https://linkedin.com/in/andre-pedro)
+
+---
 
