@@ -57,7 +57,7 @@ Welcome to my data portfolio! Here, I showcase highlights from my data projects.
 ## 🎯 My Goal  
 
 I’m at the beginning of my journey in **Data Analytics**, aiming to strengthen my skills and apply them to real-world projects.  
-My focus is to grow as a professional, contribute to dynamic teams, and **turn raw data into meaningful strategies and decisions**.  
+My focus is to grow as a professional, contribute to dynamic teams, and turn raw data into meaningful strategies and decisions.  
 
 I know this path requires constant learning, and that challenge is exactly what drives me.  
 
