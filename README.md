@@ -1,6 +1,6 @@
 # 👋 Hi, I’m André
 
-📊 **Aspiring Data Analyst** | 💡 Passionate about data | 🚀 Lifelong learner  
+📊 **Aspiring Data Analyst** | 💡 **Passionate about data** | 🚀 **Lifelong learner**  
 📍 Based in Lisbon, Portugal 🇵🇹
 
 ---
@@ -9,7 +9,7 @@
 
 I’m a young professional who decided to change careers and pursue what truly inspires me: analyzing data and turning it into actionable insights. During my bachelor’s degree, I had already developed a strong interest in this field, and although I spent several years exploring a different path, I ultimately chose to return to it. Curiosity, dedication, and attention to detail have always guided me, and I’ve found in the world of data a place where these qualities can shine.
 
-I believe data tells stories, and my goal is to keep learning how to **listen, interpret, and communicate those stories through dashboards, reports, and predictive models**.  
+I believe data tells stories, and my goal is to keep learning how to listen, interpret, and communicate those stories through dashboards, reports, and predictive models.  
 
 📌 What defines me:  
 - 🔥 Highly motivated and eager to grow  
