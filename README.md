@@ -26,9 +26,18 @@ I believe data tells stories, and my goal is to keep learning how to listen, int
 Welcome to my data portfolio! Here, I showcase highlights from my data projects.
 ## :file_folder: Table of Contents
 
+- [Microsoft Excel](#microsoft-excel)
 - [Power BI](#power-bi)
 - [SQL](#sql)
-- [Microsoft Excel](#microsoft-excel)
+
+---
+
+# Microsoft Excel
+| Project Link | Project Description |
+|-------------|----------|
+|📊[Industry Wages](https://github.com/andre-pedro/human-resources-dashboard)|This file provides annual average wage figures across multiple regions, broken down by industry. It allows for easy comparison of wage levels between regions and sectors, supporting analysis of regional and industry-specific labor trends.|
+|📊[HR Dashboard](https://github.com/andre-pedro/human-resources-dashboard)|Focused on workforce management and strategic planning, the panel transforms HR data into actionable insights through interactive tables and visuals. Its design encourages easy exploration and supports decision-making with reliable, structured information.|
+|📊[HR Dashboard](https://github.com/andre-pedro/human-resources-dashboard)|Focused on workforce management and strategic planning, the panel transforms HR data into actionable insights through interactive tables and visuals. Its design encourages easy exploration and supports decision-making with reliable, structured information.|
 
 ---
 
@@ -48,14 +57,6 @@ Welcome to my data portfolio! Here, I showcase highlights from my data projects.
 
 ---
 
-# Microsoft Excel
-| Project Link | Project Description |
-|-------------|----------|
-|📊[Industry Wages](https://github.com/andre-pedro/human-resources-dashboard)|Focused on workforce management and strategic planning, the panel transforms HR data into actionable insights through interactive tables and visuals. Its design encourages easy exploration and supports decision-making with reliable, structured information.|
-|📊[HR Dashboard](https://github.com/andre-pedro/human-resources-dashboard)|Focused on workforce management and strategic planning, the panel transforms HR data into actionable insights through interactive tables and visuals. Its design encourages easy exploration and supports decision-making with reliable, structured information.|
-|📊[HR Dashboard](https://github.com/andre-pedro/human-resources-dashboard)|Focused on workforce management and strategic planning, the panel transforms HR data into actionable insights through interactive tables and visuals. Its design encourages easy exploration and supports decision-making with reliable, structured information.|
-
----
 ## 🎯 My Goal  
 
 I’m at the beginning of my journey in **Data Analytics**, aiming to strengthen my skills and apply them to real-world projects.  
