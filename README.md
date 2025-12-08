@@ -35,7 +35,7 @@ Welcome to my data portfolio! Here, I showcase highlights from my data projects.
 # Microsoft Excel
 | Project Link | Project Description |
 |-------------|----------|
-|📊[Industry Wages](https://github.com/andre-g-pedro/industry-wages)|This file provides annual average wage figures across multiple regions, broken down by industry. It allows for easy comparison of wage levels between regions and sectors, supporting analysis of regional and industry-specific labor trends.|✔️
+|✔️📊[Industry Wages](https://github.com/andre-g-pedro/industry-wages)|This file provides annual average wage figures across multiple regions, broken down by industry. It allows for easy comparison of wage levels between regions and sectors, supporting analysis of regional and industry-specific labor trends.|
 |📊[Toy Store Dashboard](https://github.com/andre-g-pedro/toy-store-dashboard)|This dashboard provides an overview of the revenue generated across the toy store chain, with detailed breakdowns by store location and toy product. It highlights sales trends, top-performing product types, and overall revenue distribution, enabling quick insights into which toy segments drive the business.|
 
 ---
