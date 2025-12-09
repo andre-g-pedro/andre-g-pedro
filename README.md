@@ -36,7 +36,7 @@ Welcome to my data portfolio! Here, I showcase highlights from my data projects.
 | Project Link | Project Description |
 |-------------|----------|
 |✔️📊[Wages & Employment](https://github.com/andre-g-pedro/industry-wages)|This dashboard provides average salary data by industry, allowing for easy comparison of wage levels across regions and sectors, and showing a trend analysis over multiple years.|
-|❌📊[Toy Store Chain](https://github.com/andre-g-pedro/toy-store-dashboard)|This dashboard provides an overview of the revenue generated across the toy store chain, with detailed breakdowns by store location and toy product. It highlights sales trends, top-performing product types, and overall revenue distribution, enabling quick insights into which toy segments drive the business.|
+|❌📊[Toy Store Chain](https://github.com/andre-g-pedro/toy-store-dashboard)|This dashboard provides an overview of the revenue generated across the toy store chain for specific years, detailing the stores by location. It highlights sales trends, allowing quick insights into which toy segments drive the business.|
 
 ---
 
