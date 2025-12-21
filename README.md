@@ -43,6 +43,7 @@ Welcome to my data portfolio! Here, I showcase highlights from my data projects.
 # Power BI
 | Project Link | Project Description |
 |-------------|----------|
+|⚙️📈[Sales Dashboard](https://github.com/andre-g-pedro/sales-analysis-report)|This report provides valuable insights related to the sales of our amazing products.|
 |❌📈[Sales Dashboard](https://github.com/andre-pedro/sales-dashboard)|Provide an analysis of the sales performance of a store network, enabling the identification of trends, categories, and regions with the highest potential, and delivering actionable insights for strategic planning.|
 |❌📈[Covid Dashboard](https://github.com/andre-pedro/covid-dashboard)|Bringing together key indicators in an intuitive format, the panel offers a comprehensive perspective on fictitious COVID-19 data. Its interactive structure allows users to analyze trends, compare scenarios, and better understand the evolution of cases over time.|
 
