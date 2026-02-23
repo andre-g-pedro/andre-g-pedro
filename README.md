@@ -26,17 +26,9 @@ I believe data tells stories, and my goal is to keep learning how to listen, int
 Welcome to my data portfolio! Here, I showcase highlights from my data projects.
 ## :file_folder: Table of Contents
 
-- [Microsoft Excel](#microsoft-excel)
 - [Power BI](#power-bi)
+- [Microsoft Excel](#microsoft-excel)
 - [SQL](#sql)
-
----
-
-# Microsoft Excel
-| Project Link | Project Description |
-|-------------|----------|
-|📊[Wages & Employment](https://github.com/andre-g-pedro/wages-and-employment-english)|This dashboard provides average salary data by industry, allowing for easy comparison of wage levels across regions and sectors, and showing a trend analysis over multiple years.|
-|📊[Toy Store Chain](https://github.com/andre-g-pedro/toy-store-chain-english)|This dashboard provides an overview of the revenue generated across the toy store chain for selected years. It highlights sales trends, offering quick insights into which toy segments drive the business.|
 
 ---
 
@@ -46,6 +38,14 @@ Welcome to my data portfolio! Here, I showcase highlights from my data projects.
 |⚙️📈[Sales Analysis Dashboard](https://github.com/andre-g-pedro/sales-analysis-report)|This report provides valuable insights related to the sales of our amazing products.|
 |❌📈[Sales Dashboard](https://github.com/andre-pedro/sales-dashboard)|Provide an analysis of the sales performance of a store network, enabling the identification of trends, categories, and regions with the highest potential, and delivering actionable insights for strategic planning.|
 |❌📈[Covid Dashboard](https://github.com/andre-pedro/covid-dashboard)|Bringing together key indicators in an intuitive format, the panel offers a comprehensive perspective on fictitious COVID-19 data. Its interactive structure allows users to analyze trends, compare scenarios, and better understand the evolution of cases over time.|
+
+---
+
+# Microsoft Excel
+| Project Link | Project Description |
+|-------------|----------|
+|📊[Wages & Employment](https://github.com/andre-g-pedro/wages-and-employment-english)|This dashboard provides average salary data by industry, allowing for easy comparison of wage levels across regions and sectors, and showing a trend analysis over multiple years.|
+|📊[Toy Store Chain](https://github.com/andre-g-pedro/toy-store-chain-english)|This dashboard provides an overview of the revenue generated across the toy store chain for selected years. It highlights sales trends, offering quick insights into which toy segments drive the business.|
 
 ---
 
