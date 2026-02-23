@@ -44,8 +44,8 @@ Welcome to my data portfolio! Here, I showcase highlights from my data projects.
 # Microsoft Excel
 | Project Link | Project Description |
 |-------------|----------|
-|📊[Wages & Employment](https://github.com/andre-g-pedro/wages-and-employment-english)|This dashboard provides average salary data by industry, allowing for easy comparison of wage levels across regions and sectors, and showing a trend analysis over multiple years.|
-|📊[Toy Store Chain](https://github.com/andre-g-pedro/toy-store-chain-english)|This dashboard provides an overview of the revenue generated across the toy store chain for selected years. It highlights sales trends, offering quick insights into which toy segments drive the business.|
+|✅📊[Wages & Employment](https://github.com/andre-g-pedro/wages-and-employment-english)|This dashboard provides average salary data by industry, allowing for easy comparison of wage levels across regions and sectors, and showing a trend analysis over multiple years.|
+|✅📊[Toy Store Chain](https://github.com/andre-g-pedro/toy-store-chain-english)|This dashboard provides an overview of the revenue generated across the toy store chain for selected years. It highlights sales trends, offering quick insights into which toy segments drive the business.|
 
 ---
 
