@@ -1,6 +1,6 @@
 👋 Hi, I’m André
 
-📊 **Aspiring Data Analyst** | 💡 **Passionate about data** | 🚀 **Lifelong learner**  
+📊 **Data Analyst** | 💡 **Passionate about data** | 🚀 **Lifelong learner**  
 📍 Based in Lisbon, Portugal 🇵🇹
 
 ---
