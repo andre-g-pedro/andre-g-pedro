@@ -52,8 +52,10 @@ Welcome to my data portfolio! Here, I showcase highlights from my data projects.
 # SQL
 | Project Link | Project Description |
 |-------------|----------|
+|❌🗄️[Game Store][(https://github.com/andre-g-pedro/game-store)] |Database project for a library system, featuring tables for users, authors, books, rentals, and fines. Includes queries to manage loans, generate reports on most rented books, and track outstanding fines. Implements views, triggers to automatically update book availability, and stored procedures to handle returns and apply fines. Demonstrates practical skills in relational modeling and SQL programming.|
 |❌🗄️[Online Movie Rental Shop](https://github.com/andre-pedro/game-store) |SQL Database project for an online movie rental shop, focused on Data Analytics. The goal of this project is to structure and query online movie rental data to enable the analysis of consumer patterns and sales performance.|
 |❌🗄️[Library](https://github.com/andre-pedro/library) |Database project for a library system, featuring tables for users, authors, books, rentals, and fines. Includes queries to manage loans, generate reports on most rented books, and track outstanding fines. Implements views, triggers to automatically update book availability, and stored procedures to handle returns and apply fines. Demonstrates practical skills in relational modeling and SQL programming.|
+
 
 ---
 
