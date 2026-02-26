@@ -1,4 +1,4 @@
-vc# 👋 Hi, I’m André
+👋 Hi, I’m André
 
 📊 **Aspiring Data Analyst** | 💡 **Passionate about data** | 🚀 **Lifelong learner**  
 📍 Based in Lisbon, Portugal 🇵🇹
