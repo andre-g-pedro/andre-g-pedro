@@ -51,7 +51,7 @@ Welcome to my data portfolio! Here, I showcase highlights from my data projects.
 # SQL
 | Project Link | Project Description |
 |-------------|----------|
-|✅🗄️[Online Movie Rental Shop](https://github.com/andre-pedro/game-store) |SQL Database project for an online movie rental shop, focused on Data Analytics. The goal of this project is to structure and query online movie rental data to enable the analysis of consumer patterns and sales performance.|
+|✅🗄️[Online Movie Rental Shop](https://github.com/andre-pedro/online-movie-rental) |SQL Database project for an online movie rental shop, focused on Data Analytics. The goal of this project is to structure and query online movie rental data to enable the analysis of consumer patterns and sales performance.|
 
 ---
 
