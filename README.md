@@ -35,8 +35,8 @@ Welcome to my data portfolio! Here, I showcase highlights from my data projects.
 # Power BI
 | Project Link | Project Description |
 |-------------|----------|
-|📈[Koffee Break](https://github.com/andre-g-pedro/koffee-break)|This project consolidates billing data from Koffee Break in Florida, enabling instant performance comparisons across the three main stores and product categories.|
-|📈[Auvira Real State](https://github.com/andre-g-pedro/sales-analysis-report)|This project consolidates real estate market data from the Texas state capital, enabling immediate comparisons of prices and features across different properties and school zones.
+|✅📈[Koffee Break](https://github.com/andre-g-pedro/koffee-break)|This project consolidates billing data from Koffee Break in Florida, enabling instant performance comparisons across the three main stores and product categories.|
+|✅📈[Auvira Real State](https://github.com/andre-g-pedro/sales-analysis-report)|This project consolidates real estate market data from the Texas state capital, enabling immediate comparisons of prices and features across different properties and school zones.
 
 ---
 
